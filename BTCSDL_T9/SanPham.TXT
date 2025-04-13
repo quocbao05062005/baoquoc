@@ -1,0 +1,7 @@
+ProductID,ProductName,SupplierID,UnitPrice,UnitInStock
+1,Laptop Dell,4,1200,50
+2,Bàn phím co,4,80,200
+3,ProductID,ProductName,SupplierID,UnitPrice,UnitInStock
+1,1,5,25000000,
+2,2,10,15000000,
+3,10,5,450000,

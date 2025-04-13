@@ -1,0 +1,2 @@
+CustomerID,CompanyName,City
+6,Tech Corp,LonDon
